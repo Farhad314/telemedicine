@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796246017507",
+    "project_id": "otptest-c8166",
+    "storage_bucket": "otptest-c8166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796246017507:android:6cd073f05e0d35e2810cd6",
+        "android_client_info": {
+          "package_name": "com.example.telemedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796246017507-kncekmkrae591kgrcr6hjbohdl5mkrfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telemedicine",
+            "certificate_hash": "f518ef6006ea104320c42b546d972705055cfe84"
+          }
+        },
+        {
+          "client_id": "796246017507-qpvqhli50057r3j979vnnmalhla3sf6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp5LiJP3QMyM0mHC4aADUWXuoaLxDsHKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796246017507-qpvqhli50057r3j979vnnmalhla3sf6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
