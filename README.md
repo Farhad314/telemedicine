@@ -1,6 +1,6 @@
 # telemedicine
 
-A new Flutter project.
+A new Flutter project. I have done this as my university final year project.
 
 ## Getting Started
 
